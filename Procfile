@@ -1,2 +1,2 @@
-web: .build/release/HomePage
+web: .build/release/HomePage "$PORT"
 
