@@ -1,2 +1,2 @@
-web: HomePage
+web: .build/release/HomePage
 
